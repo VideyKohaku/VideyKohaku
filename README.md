@@ -1,10 +1,7 @@
-<h1 align="center" style="text-align: center; border-bottom: solid 1px #F2F2F2; margin-bottom: 24px;">Hi, my name is Minh Phuoc👋</h3>
+<h1 align="center" style="text-align: center;margin-bottom: 12px;">Hi, my name is Sora👋</h1>
 <h4 align="center" style="text-align: center; margin-bottom: 32px;"> I'm a software developer from Viet Nam<h4>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VideyKohaku)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VideyKohaku&show_icons=true)
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VideyKohaku&theme=calm&show_icons=true&count_private=true"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideyKohaku&theme=calm&layout=compact&langs_count=5"></p>
 
 
 <!--
