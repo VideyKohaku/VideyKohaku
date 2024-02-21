@@ -1,4 +1,4 @@
-<h1 align="center" style="text-align: center;margin-bottom: 12px;">Hi, my name is Sora👋</h1>
+<h1 align="center" style="text-align: center;margin-bottom: 12px;">Hi, my name is Phuoc (Sora)👋</h1>
 <h4 align="center" style="text-align: center; margin-bottom: 32px;"> I'm a software developer from Viet Nam<h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=VideyKohaku&theme=calm&show_icons=true&count_private=true"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideyKohaku&theme=calm&layout=compact&langs_count=5"></p>
